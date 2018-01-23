@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ChessBoard()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ChessBoard\r\n
+comment1.params=location
+comment1.target=ChessPiece\ getPieceAt(ChessLocation)
+comment1.text=\r\n\ @param\ location\ \ \ \ \ the\ location\ of\ the\ desired\ chess\ piece\r\n\ @return\ ChessPiece\ \ returns\ the\ piece\ at\ the\ specified\ location\r\n
+comment2.params=location
+comment2.target=boolean\ isPieceAt(ChessLocation)
+comment2.text=\r\n\ Determines\ if\ the\ piece\ is\ at\ the\ specified\ location\r\n\ @param\ location\ \ the\ location\ of\ the\ piece\r\n\ @return\ \ \ \ \ \ \ true\ if\ piece\ is\ located\ at\ location,\ false\ if\ piece\ does\ not\ exist\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ in\ that\ location\r\n
+comment3.params=piece\ location
+comment3.target=void\ placePieceAt(ChessPiece,\ ChessLocation)
+comment3.text=\r\n\ Places\ piece\ at\ desired\ location\ while\ replacing\ existing\ pieces\ that\ may\ be\ there\r\n\ @param\ \ piece\ \ \ \ \ The\ piece\ being\ moved\r\n\ @param\ \ location\ \ \ The\ desired\ location\ to\ place\ the\ piece\r\n
+comment4.params=
+comment4.target=void\ drawBoard()
+comment4.text=\r\n\ Constructs\ the\ 8x8\ chess\ board\ without\ any\ pieces\ on\ it\r\n
+comment5.params=location
+comment5.target=void\ removePiece(ChessLocation)
+comment5.text=\r\n\ Removes\ the\ piece\ at\ desired\ location\ (makes\ it\ null)\r\n\ @param\ \ location\ \ \ \ \ The\ location\ where\ the\ piece\ is\ wanted\ to\ be\ removed\r\n
+comment6.params=
+comment6.target=void\ printBoard()
+comment6.text=\r\n\ Prints\ the\ board\ (with\ pieces\ if\ applicable)\ to\ the\ terminal\ window\r\n
+numComments=7

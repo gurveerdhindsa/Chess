@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=location\ status
+comment0.target=boolean\ moveTo(ChessLocation,\ boolean)
+numComments=1

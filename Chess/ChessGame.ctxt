@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=player1\ player2
+comment0.target=ChessGame(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ChessGame\r\n
+comment1.params=
+comment1.target=ChessBoard\ getBoard()
+comment1.text=\r\n\ @return\ \ \ \ \ The\ chessboard\ \ \ \ \r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ checkKings()
+comment2.text=\r\n\ Adds\ king\ to\ the\ list\ containing\ the\ 2\ kings\ for\ the\ chess\ game\ then\ returns\ the\ list\r\n
+numComments=3

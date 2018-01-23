@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=player\ c_location\ game_id
+comment0.target=King(java.lang.String,\ ChessLocation,\ ChessGame)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ King\r\n
+comment1.params=newLocation
+comment1.target=void\ updateThreateningLocation(ChessLocation)
+comment1.text=\r\n\ Overrides\ method\ in\ superclass\ to\ update\ threateningLocations\ array\r\n
+comment2.params=new_location\ status
+comment2.target=boolean\ moveTo(ChessLocation,\ boolean)
+comment2.text=\r\n\ Checks\ the\ legality\ of\ the\ desired\ move.\ If\ legal,\ king\ is\ moved\ to\ that\ location.\r\n
+comment3.params=destination
+comment3.target=ChessPiece\ locationInDanger(ChessLocation)
+comment3.text=\r\n\ Updates\ threatening\ locations\ for\ all\ opponent\ pieces\r\n
+comment4.params=
+comment4.target=boolean\ anyMovesLeft()
+comment4.text=\r\n\ Returns\ boolean\ of\ whether\ or\ not\ King\ has\ any\ non-threatening\ moves\r\n
+comment5.params=
+comment5.target=ChessPiece\ check()
+comment5.text=\r\n\ Returns\ the\ piece\ which\ is\ currently\ threatening\ the\ King\r\n
+numComments=6

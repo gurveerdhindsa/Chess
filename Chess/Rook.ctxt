@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=player\ location\ game
+comment0.target=Rook(java.lang.String,\ ChessLocation,\ ChessGame)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rook\r\n
+comment1.params=new_location\ status
+comment1.target=boolean\ moveTo(ChessLocation,\ boolean)
+comment1.text=\r\n\ Checks\ the\ legality\ of\ the\ desired\ move.\ If\ legal,\ rook\ is\ moved\ to\ that\ location.\r\n
+comment2.params=newLocation
+comment2.target=void\ updateThreateningLocation(ChessLocation)
+comment2.text=\r\n\ Overrides\ method\ in\ superclass\ to\ update\ threateningLocations\ array\r\n
+numComments=3

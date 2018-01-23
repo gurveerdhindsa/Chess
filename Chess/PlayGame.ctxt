@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ menu()
+comment0.text=\r\n\ Prints\ the\ introduction\ of\ the\ game\r\n
+comment1.params=x\ y
+comment1.target=boolean\ checkIndices(int,\ int)
+comment1.text=\r\n\ Verifies\ that\ user\ input\ is\ valid\ on\ the\ checkboard\r\n
+comment2.params=turn
+comment2.target=void\ quitGame(java.lang.String)
+comment2.text=\r\n\ Quits\ the\ game\r\n
+comment3.params=turn\ game\ location
+comment3.target=boolean\ checkOwner(java.lang.String,\ ChessGame,\ ChessLocation)
+comment3.text=\r\n\ Verifies\ owner\ of\ piece\ that\ is\ being\ moved\r\n
+comment4.params=game\ turn
+comment4.target=boolean\ move(ChessGame,\ java.lang.String)
+comment4.text=\r\n\ Asks\ for\ initial\ and\ final\ coordinates\ and\ moves\ the\ desired\ piece\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ method\r\n
+comment6.params=kings
+comment6.target=void\ checkKingCapture(java.util.ArrayList)
+comment6.text=\r\n\ Checks\ if\ the\ king\ has\ been\ captured\ for\ both\ players.\ If\ it\ is\ captured\ the\ other\ player\ wins\ and\ the\ game\ ends.\r\n
+numComments=7
